@@ -1,0 +1,7 @@
+c:\users\colin\source\repos\car_production_line\car_production_line\bin\Debug\car_production_line.exe.config
+c:\users\colin\source\repos\car_production_line\car_production_line\bin\Debug\car_production_line.exe
+c:\users\colin\source\repos\car_production_line\car_production_line\bin\Debug\car_production_line.pdb
+c:\users\colin\source\repos\car_production_line\car_production_line\obj\Debug\car_production_line.csprojResolveAssemblyReference.cache
+c:\users\colin\source\repos\car_production_line\car_production_line\obj\Debug\car_production_line.csproj.CoreCompileInputs.cache
+c:\users\colin\source\repos\car_production_line\car_production_line\obj\Debug\car_production_line.exe
+c:\users\colin\source\repos\car_production_line\car_production_line\obj\Debug\car_production_line.pdb
